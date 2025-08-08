@@ -1,0 +1,94 @@
+{
+  "company": "Snowman Labs",
+  "qa": [
+    {
+      "question": "Em qual data foi fundada a Snowman Labs?",
+      "answer": "A Snowman Labs foi fundada no dia 9 de agosto de 2012."
+    },
+    {
+      "question": "Qual foi o primeiro cliente/ projeto que a Snow teve?",
+      "answer": "O primeiro cliente que a Snow teve foi um candidato a deputado federal e fizemos o projeto dos santinhos digitais. Foi entregue em setembro de 2012."
+    },
+    {
+      "question": "Por que foi escolhido o nome Snowman Labs?",
+      "answer": "Por conta da neve em Curitiba que ocorreu em 2013. Queríamos um mascote e a partir dele, surgiu o nome (foi a primeira coisa que pensamos na época)."
+    },
+    {
+      "question": "Quantos funcionários a Snow tinha no primeiro ano de existência?",
+      "answer": "Em nosso primeiro ano éramos apenas 7 funcionários."
+    },
+    {
+      "question": "Qual é o propósito da Snowman Labs?",
+      "answer": "Servir e impactar pessoas através de tecnologia e design."
+    },
+    {
+      "question": "Qual é a missão da Snowman Labs?",
+      "answer": "Criar soluções que promovam a transformação e evolução digital dos nossos clientes, gerando negócios, resultados e impactando positivamente pessoas e processos."
+    },
+    {
+      "question": "Qual é a visão da Snowman Labs?",
+      "answer": "Ampliar exponencialmente o potencial das empresas e das pessoas através de design e tecnologia."
+    },
+    {
+      "question": "Quais são os princípios e valores da Snowman Labs?",
+      "answer": "Fé que guia as nossas ações\nQualidade que nos move sempre a darmos o nosso melhor\nTransparência que constrói a confiança\nRespeito que honra as pessoas\nRelacionamento que nos torna uma família\nComprometimento que nos faz andar mais uma milha\nImpacto que cria esperança"
+    },
+    {
+      "question": "Quais stacks são utilizadas na Snowman Labs?",
+      "answer": "A Snow trabalha com diferentes stacks e tecnologias, entre elas estão Java/Kotlin para Android nativo, Swift para iOS, Flutter/Dart, Python, .NET, VueJS, NodeJS…"
+    },
+    {
+      "question": "A Snow é aberta à novas idéias e tecnologias?",
+      "answer": "Sim! A Snow está sempre buscando se manter atualizada sobre novas tecnologias e sempre está aberta à novas ideias e sugestões. Fomos umas das primeiras em Curitiba a adotar o Flutter para projetos em produção e estamos sempre buscando por inovações e melhorias."
+    }
+  ],
+  "structured_data": {
+    "founding_date": "2012-08-09",
+    "first_year_employees": 7,
+    "first_project_delivery": "2012-09",
+    "purpose": "Servir e impactar pessoas através de tecnologia e design",
+    "mission": "Criar soluções que promovam a transformação e evolução digital dos nossos clientes, gerando negócios, resultados e impactando positivamente pessoas e processos",
+    "vision": "Ampliar exponencialmente o potencial das empresas e das pessoas através de design e tecnologia",
+    "values": [
+      {
+        "name": "Fé",
+        "description": "que guia as nossas ações"
+      },
+      {
+        "name": "Qualidade",
+        "description": "que nos move sempre a darmos o nosso melhor"
+      },
+      {
+        "name": "Transparência",
+        "description": "que constrói a confiança"
+      },
+      {
+        "name": "Respeito",
+        "description": "que honra as pessoas"
+      },
+      {
+        "name": "Relacionamento",
+        "description": "que nos torna uma família"
+      },
+      {
+        "name": "Comprometimento",
+        "description": "que nos faz andar mais uma milha"
+      },
+      {
+        "name": "Impacto",
+        "description": "que cria esperança"
+      }
+    ],
+    "technologies": [
+      "Java",
+      "Kotlin",
+      "Swift",
+      "Flutter",
+      "Dart",
+      "Python",
+      ".NET",
+      "VueJS",
+      "NodeJS"
+    ]
+  }
+}
